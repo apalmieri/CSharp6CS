@@ -395,7 +395,7 @@ namespace CSharp6CS
 The output for this example is :
 
 ```csharp
-Adriano Palmieri is my name!
+My name is Adriano Palmieri!
 ```
 
 nameOf Expression
