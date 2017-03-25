@@ -2,6 +2,7 @@ With C# 6 release, I've seen that a lot of syntax changes have occurred since it
 
 It's useful to make a list of the most essential C# 6 features with simple code examples that would make it both easy to understand and simple to copy/paste a sample into a new console app to try it. Let's jump in. Some of those excerpts are from concrete examples or from other leaders and real mentors in the IT world, I am sharing hoping it might help somebody to move forward.
 
+The source for this article can be found at https://github.com/apalmieri/CSharp6CS.
 
 Auto-Property Initializers
 --------------------------
